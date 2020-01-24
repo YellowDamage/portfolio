@@ -146,11 +146,11 @@ text-align:left;
   }
 
   .processing{
-text-align:right;
+text-align:center;
   }
 
 js{
-  text-align:left;
+  text-align:center;
 }
 .p5image{
      width: 300px;
@@ -168,12 +168,14 @@ js{
     width: 300px;
     height: 300px;
     object-fit:cover;
+    left:50px;
 }
 
 .jsimage{
      width: 300px;
     height: 300px;
     object-fit:cover;
+    right:50px;
 }
 
 used{
