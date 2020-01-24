@@ -136,36 +136,27 @@ nav{
       color:#fff;
       text-align:center;
 }
-  .github{
-text-align:right;
-  }
-
-  .processing{
-text-align:left;
-  }
-
-.js{
-  text-align:center;
-}
+ 
 
 .githubimage{
      width: 300px;
     height: 300px;
     object-fit:cover;
+    float:left;
 }
 
 .processingimage{
     width: 300px;
     height: 300px;
     object-fit:cover;
-   
+   float:center;
 }
 
 .jsimage{
      width: 300px;
     height: 300px;
     object-fit:cover;
-    
+    float:right;
 }
 
 .used{
