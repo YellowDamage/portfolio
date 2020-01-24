@@ -137,16 +137,16 @@ nav{
       text-align:center;
 }
   .github{
-text-align:left;
+text-align:right;
   }
 
   .processing{
-text-align:center;
+text-align:left;
   }
 
 js{
   text-align:center;
-
+}
 
 .githubimage{
      width: 300px;
