@@ -159,6 +159,12 @@ nav{
     float:right;
 }
 
+.p5image{
+      width: 300px;
+    height: 300px;
+    object-fit:cover;
+    float:right;
+}
 .used{
      font-family:"Serif";
     font-size: 16px;
