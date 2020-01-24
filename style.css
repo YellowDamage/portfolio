@@ -175,3 +175,27 @@ js{
     height: 300px;
     object-fit:cover;
 }
+
+p5text{
+    font-family:"Serif";
+    font-size: 16px;
+    text-align:center;
+}
+
+jstext{
+     font-family:"Serif";
+    font-size: 16px;
+    text-align:center;
+}
+
+processingtext{
+     font-family:"Serif";
+    font-size: 16px;
+     text-align:center;
+}
+
+githubtext{
+     font-family:"Serif";
+    font-size: 16px;
+     text-align:center;
+}
