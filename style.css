@@ -138,22 +138,13 @@ nav{
   }
 
   .p5{
-      height:400px;
-      width:400px;
-      left:300px;
-      position: relative;
+     text-align:center;
   }
 
   .github{
-    height:400px;
-    width:400px;
-    left:1400px;
-    position:relative;
+text-align:center;
   }
 
   .processing{
-    height:400px;
-    width:400px;
-    left:250px;
-    position:relative;
+text-align:center;
   }
