@@ -148,3 +148,21 @@ text-align:center;
   .processing{
 text-align:center;
   }
+
+.p5image{
+     width: 300px;
+    height: 300px;
+    object-fit:cover;
+}
+
+.githubimage{
+     width: 300px;
+    height: 300px;
+    object-fit:cover;
+}
+
+.processingimage{
+    width: 300px;
+    height: 300px;
+    object-fit:cover;
+}
