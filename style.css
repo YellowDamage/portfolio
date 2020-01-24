@@ -132,7 +132,7 @@ nav{
     background-color: #fff;
   }
 
-  return{
+  .return{
       color:#fff;
       text-align:center;
 }
@@ -144,7 +144,7 @@ text-align:right;
 text-align:left;
   }
 
-js{
+.js{
   text-align:center;
 }
 
@@ -168,7 +168,7 @@ js{
     right:50px;
 }
 
-used{
+.used{
      font-family:"Serif";
     font-size: 16px;
      text-align:center;
